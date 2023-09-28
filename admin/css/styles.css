@@ -1,0 +1,37 @@
+.admin-photo-thumbnail {
+    width: 200px;
+    border-radius: 5px;
+}
+
+
+.user-image {
+    width: 62px;
+    height: 62px;
+}
+
+
+/*******************Photo Library Modal**************/
+
+.modal-dialog{
+    width: 90% !important;
+}
+
+.modal-boddy{
+    overflow: auto;
+    height: 500px !important;
+    min-height: 300px !important;
+}
+
+.modal-thumbnail{
+    width: 150px;
+    height: 100px !important;
+}
+
+#set_user_image{
+    margin: 10px;
+}
+
+#modal_sidebar{
+    position: fixed !!mportant;
+}
+
